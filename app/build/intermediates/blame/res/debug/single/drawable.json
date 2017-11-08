@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/drawable/sf__header_bg.png",
+        "source": "/Users/mgalvao/workspace/MyAndroidNative/mobile_sdk/salesforcemobilesdk-android/libs/SalesforceSDK/build/intermediates/bundles/default/res/drawable/sf__header_bg.png"
+    },
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/mgalvao/.android/build-cache/00193d13d1d85e1bf407fc8b4cb7992da38cb982/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/mgalvao/.android/build-cache/00193d13d1d85e1bf407fc8b4cb7992da38cb982/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/mgalvao/.android/build-cache/00193d13d1d85e1bf407fc8b4cb7992da38cb982/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/mgalvao/.android/build-cache/00193d13d1d85e1bf407fc8b4cb7992da38cb982/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/mgalvao/.android/build-cache/00193d13d1d85e1bf407fc8b4cb7992da38cb982/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/drawable/sf__progress_spinner.xml",
+        "source": "/Users/mgalvao/workspace/MyAndroidNative/mobile_sdk/salesforcemobilesdk-android/libs/SalesforceSDK/build/intermediates/bundles/default/res/drawable/sf__progress_spinner.xml"
+    },
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/mgalvao/.android/build-cache/00193d13d1d85e1bf407fc8b4cb7992da38cb982/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/mgalvao/.android/build-cache/00193d13d1d85e1bf407fc8b4cb7992da38cb982/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/mgalvao/.android/build-cache/00193d13d1d85e1bf407fc8b4cb7992da38cb982/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/mgalvao/.android/build-cache/00193d13d1d85e1bf407fc8b4cb7992da38cb982/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/drawable/sf__toolbar_background.xml",
+        "source": "/Users/mgalvao/workspace/MyAndroidNative/mobile_sdk/salesforcemobilesdk-android/libs/SalesforceSDK/build/intermediates/bundles/default/res/drawable/sf__toolbar_background.xml"
+    },
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/mgalvao/.android/build-cache/00193d13d1d85e1bf407fc8b4cb7992da38cb982/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/mgalvao/.android/build-cache/00193d13d1d85e1bf407fc8b4cb7992da38cb982/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/mgalvao/.android/build-cache/00193d13d1d85e1bf407fc8b4cb7992da38cb982/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/mgalvao/.android/build-cache/00193d13d1d85e1bf407fc8b4cb7992da38cb982/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/mgalvao/.android/build-cache/00193d13d1d85e1bf407fc8b4cb7992da38cb982/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    }
+]

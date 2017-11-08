@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/xml/authenticator.xml",
+        "source": "/Users/mgalvao/workspace/MyAndroidNative/mobile_sdk/salesforcemobilesdk-android/libs/SalesforceSDK/build/intermediates/bundles/default/res/xml/authenticator.xml"
+    },
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/xml/servers.xml",
+        "source": "/Users/mgalvao/workspace/MyAndroidNative/mobile_sdk/salesforcemobilesdk-android/libs/SalesforceSDK/build/intermediates/bundles/default/res/xml/servers.xml"
+    },
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/xml/app_restrictions.xml",
+        "source": "/Users/mgalvao/workspace/MyAndroidNative/mobile_sdk/salesforcemobilesdk-android/libs/SalesforceSDK/build/intermediates/bundles/default/res/xml/app_restrictions.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/menu/sf__clear_custom_url.xml",
+        "source": "/Users/mgalvao/workspace/MyAndroidNative/mobile_sdk/salesforcemobilesdk-android/libs/SalesforceSDK/build/intermediates/bundles/default/res/menu/sf__clear_custom_url.xml"
+    },
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/menu/sf__login.xml",
+        "source": "/Users/mgalvao/workspace/MyAndroidNative/mobile_sdk/salesforcemobilesdk-android/libs/SalesforceSDK/build/intermediates/bundles/default/res/menu/sf__login.xml"
+    }
+]

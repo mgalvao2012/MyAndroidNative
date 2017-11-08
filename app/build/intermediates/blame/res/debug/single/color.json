@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/mgalvao/.android/build-cache/00193d13d1d85e1bf407fc8b4cb7992da38cb982/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/mgalvao/.android/build-cache/00193d13d1d85e1bf407fc8b4cb7992da38cb982/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/mgalvao/.android/build-cache/00193d13d1d85e1bf407fc8b4cb7992da38cb982/output/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]

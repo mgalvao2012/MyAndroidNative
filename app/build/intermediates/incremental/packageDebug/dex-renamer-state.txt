@@ -1,0 +1,7 @@
+#Tue Nov 07 22:25:13 BRST 2017
+base.0=/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7a47dcb8dd45aa5a07bdec803a66437c01642fa0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_069cd1e026caecc83d443c6bb61596b766b7411a/classes.dex
+base.1=/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_069cd1e026caecc83d443c6bb61596b766b7411a
+file.0=/Users/mgalvao/workspace/MyAndroidNative/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7a47dcb8dd45aa5a07bdec803a66437c01642fa0/classes.dex
